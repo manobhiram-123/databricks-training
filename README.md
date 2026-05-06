@@ -1,45 +1,43 @@
-Databricks Training Repository
-Overview
+# Databricks Training Repository
 
-This repository contains Databricks SQL training materials organized day-wise for learning and practice.
+## Overview
+This repository contains Databricks SQL training materials.
+The content is organized day-wise for easy learning and practice.
 
-The training includes:
+## Day-1 Topics
+- Basic SQL Queries
+- WHERE Clause
+- ORDER BY
+- String Matching Queries
+- Date Queries
 
-Basic SQL Queries
-String Matching Queries
-Date Queries
-Aggregate Functions
-GROUP BY
-HAVING Clause
-Day-1 Topics
-Basic SQL Queries
-WHERE Clause
-ORDER BY
-String Matching Queries
-Date Queries
-Day-2 Topics
-Aggregate Functions
-COUNT, SUM, AVG
-GROUP BY Clause
-HAVING Clause
-Technologies Used
-SQL
-Databricks
-GitHub
-Repository Structure
+## Day-2 Topics
+- Aggregate Functions
+- COUNT Function
+- SUM Function
+- AVG Function
+- GROUP BY Clause
+- HAVING Clause
 
+## Technologies Used
+- SQL
+- Databricks
+- GitHub
+
+## Repository Structure
 Databricks-Training
+│
+├── README.md
+├── Week-1
+│   ├── Day-1
+│   └── Day-2
 
-README.md
-Week-1
-Day-1
-Day-2
-Learning Outcomes
-Write SQL queries
-Filter and sort data
-Work with string and date queries
-Perform grouped calculations
-Use aggregate functions
-Author
+## Learning Outcomes
+- Understand SQL basics
+- Write simple SQL queries
+- Perform filtering and sorting
+- Work with aggregate functions
+- Analyze grouped data
 
-Databricks SQL Training Repository.
+## Author
+Databricks SQL Training Repository
