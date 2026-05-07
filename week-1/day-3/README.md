@@ -50,7 +50,7 @@ This folder contains Day-3 SQL practice topics for Databricks training. The focu
 
 # Learning Outcomes
 
-After completing Day-3, you will be able to:
+After completing Day-3, i  will be able to:
 
 * Sort records using ORDER BY
 * Perform joins between tables
